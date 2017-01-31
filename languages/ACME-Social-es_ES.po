@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Votes"
+msgstr "Votos"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Thanks for voting!"
+msgstr "Gracias por su voto!"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Place here your ACME-Social identifier:"
+msgstr "Ponga aquí su identificador secreto de ACME-Social"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Voting enabled for logged users."
+msgstr "Permitir la votación sólo a usuarios autenticados"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Voting allowed for everyone."
+msgstr "Permitir la votación anónima"
+
+#. Text in function
+#: acme-social.php:1
+msgid "If enabled, comments will be filtered by using user score."
+msgstr "Si esta casilla está activada, los comentarios estarán filtrados en base a la puntuación de los usuarios."
+
+#. Text in function
+#: acme-social.php:1
+msgid "Spam comment if user score is LOWER THAN:"
+msgstr "Marcar como spam si el usuario tiene una puntuación MENOR QUE:"
+
+#. Text in function
+#: acme-social.php:1
+msgid "(Default: 0)(This rule is checked first)"
+msgstr "(Por defecto: 0)(Esta regla se comprueba en primer lugar)"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Autopublish comment if user has a score GREATER OR EQUALS TO:"
+msgstr "Autopublicar el comentario si el usuario tiene una puntuación MAYOR O IGUAL A:"
+
+
+#. Text in function
+#: acme-social.php:1
+msgid "(Default: 0)"
+msgstr "(Por defecto: 0)"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Save"
+msgstr "Guardar cambios"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Settings"
+msgstr "Configuración"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Privacy"
+msgstr "Privacidad"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Comments filter"
+msgstr "Filtrado de comentarios"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Comments' Vote"
+msgstr "Votos de comentarios"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Powered by"
+msgstr "Mejorado con"
+
+#. Text in function
+#: acme-social.php:1
+msgid "Submitting this comment you accept the Terms and Conditions"
+msgstr "Al enviar tu comentario aceptas los Terminos y Condiciones"
+
+#. Text in function
+#: acme-social.php:1
+msgid "text1"
+msgstr "Por favor, informe a sus usuarios de que este plugin podría recoger datos de su navegación."
+
+#. Text in function
+#: acme-social.php:1
+msgid "text2"
+msgstr "Siempre que una persona publique un comentario, ésta estará aceptando los términos y condiciones publicados en la página de ACME-SOCIAL, y se le creará una cuenta inactiva con el único propósito de almacenar la puntuación de sus comentarios."
+
+

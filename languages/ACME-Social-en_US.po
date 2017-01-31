@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.11\n"
+
+
+
+#. Text in function
+#: acme-social.php:1
+msgid "text1"
+msgstr "Please, inform your users that this plugin may collect data from their navigation."
+
+#. Text in function
+#: acme-social.php:1
+msgid "text2"
+msgstr "Whenever a person submit a comment, he/she will be accepting the terms and conditions published in ACME-SOCIAL website, and a inactive account would be created just for its comments' score count purposes."
